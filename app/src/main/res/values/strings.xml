@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZuriTaskTwo</string>
+    <string name="password">Password</string>
+    <string name="mylife_gmail_com">Email</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="passwordtext">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="avacado">Avacado</string>
+</resources>
